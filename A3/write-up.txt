@@ -1,0 +1,6 @@
+Name: Michael Herrmann
+Email: michael_herrmann@student.uml.edu
+
+With this assignment I feel as if I got around a 70-80%. The reason for this is because I could not get the masm or mic1 commands to work and I got stuck on how to get them. This being said I was not really able to run and compute my code however i have looked over my code many times and feel as if I did the code part 100% correct. The only thing I could not do was the masm and mic1 commands.
+
+Also, being that I was not able to figure out how to work the masm or the mic1 command, my Makefile generates an error when ran. It does still generate the correct hw3.obj.

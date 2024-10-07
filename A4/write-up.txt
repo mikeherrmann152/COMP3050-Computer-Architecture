@@ -1,0 +1,8 @@
+Michael Herrmann
+michael_herrmann@student.uml.edu
+01940493
+
+This assignment was very difficult for me. I can expect to get anywhere from a 60 to an 80. This is because I have
+     always had a hard time with the microCode stuff, even in class it is kinda difficult for me to understand.
+     It took me a while also to really understand what the program needed to do, so this caused me some issues
+     as I was looking at the pdf and the given code for the assignment.

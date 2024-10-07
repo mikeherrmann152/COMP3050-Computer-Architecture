@@ -1,0 +1,7 @@
+Name: Michael Herrmann
+Email: michael_herrmann@student.uml.edu
+
+With this program I expect to get a 90-100 percent. This is because all of my code works and runs smoothly. When
+     I test all of the values given in the assignment handout they all com back correct. The reason it is not just
+     a 100 is because maybe my code could have been neater or maybe there was a shorter way to do it but this is
+     the way that worked for me.
